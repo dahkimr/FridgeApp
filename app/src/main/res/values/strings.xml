@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FridgeApp</string>
+
+    <string-array name="types">
+        <item>Meat</item>
+        <item>Veggie</item>
+        <item>Fruit</item>
+        <item>Produce</item>
+    </string-array>
+</resources>
